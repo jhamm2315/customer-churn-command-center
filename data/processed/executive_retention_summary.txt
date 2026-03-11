@@ -1,0 +1,25 @@
+Customer Retention Executive Summary
+
+Total customers analyzed: 7043
+Selected production model: random_forest
+
+Predicted churn risk distribution:
+- Critical: 356
+- High: 1111
+- Moderate: 1562
+- Low: 4014
+
+Financial exposure:
+- Total estimated annual revenue: $5,473,399.20
+- Total predicted revenue at risk: $1,681,259.53
+- High-risk revenue at risk: $939,229.83
+
+Leadership interpretation:
+The retention portfolio shows a concentrated pocket of high-value customer risk that should be addressed through targeted interventions rather than broad campaigns. Priority should be placed on customers with high churn probability, month-to-month contracts, and elevated monthly charges, as these segments represent the greatest near-term revenue exposure.
+
+Recommended strategic actions:
+1. Prioritize high-value Critical and High risk customers for immediate retention outreach.
+2. Use contract conversion incentives for high-risk month-to-month customers.
+3. Deploy onboarding and support interventions for newer customers with elevated churn probability.
+4. Focus retention resources on the segments with the highest modeled revenue-at-risk.
+5. Operationalize the best-performing model (random_forest) as the primary scoring engine for future retention workflows.

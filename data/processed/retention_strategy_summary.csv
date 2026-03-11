@@ -1,0 +1,7 @@
+metric,value
+Total customers analyzed,7043
+Total estimated annual revenue,5473399.2
+Total predicted revenue at risk,1681259.53
+High-risk customers,1467
+High-risk revenue at risk,939229.83
+Selected production model,random_forest

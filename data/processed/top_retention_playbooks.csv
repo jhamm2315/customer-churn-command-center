@@ -1,0 +1,6 @@
+predicted_risk_band,customer_value_band,recommended_offer_type,retention_action,customer_count,total_revenue_at_risk,avg_monthly_charges,avg_churn_probability
+High,High Value,Discount / pricing support,Offer discount or bundle upgrade to reduce churn risk,525,367471.86,94.95780952380952,0.6148069685070953
+Moderate,High Value,Customer education / support touchpoint,Monitor and enroll in nurture retention journey,594,253920.94,96.81254208754208,0.3691498585465421
+Critical,High Value,Contract conversion incentive,Immediate retention outreach with contract conversion incentive,196,178588.95,92.90535714285714,0.8168803118794735
+Low,High Value,No immediate offer,Monitor only,1048,131789.96,99.20009541984732,0.1045538403685219
+High,Medium Value,No immediate offer,Offer discount or bundle upgrade to reduce churn risk,246,123411.35,68.44939024390244,0.6082446663173967

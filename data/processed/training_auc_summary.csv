@@ -1,0 +1,4 @@
+model_name,train_auc,test_auc,train_rows,test_rows
+logistic_regression,0.8512,0.8416,5634,1409
+random_forest,0.9328,0.8435,5634,1409
+xgboost,0.9421,0.8406,5634,1409

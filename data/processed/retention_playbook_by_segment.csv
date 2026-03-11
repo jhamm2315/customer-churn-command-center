@@ -1,0 +1,19 @@
+predicted_risk_band,customer_value_band,recommended_offer_type,retention_action,customer_count,total_revenue_at_risk,avg_monthly_charges,avg_churn_probability
+Critical,High Value,Contract conversion incentive,Immediate retention outreach with contract conversion incentive,196,178588.95,92.90535714285714,0.8168803118794735
+Critical,Medium Value,Contract conversion incentive,High-touch onboarding recovery and service review,125,91312.34,73.65480000000001,0.8269265108238414
+Critical,Medium Value,Contract conversion incentive,Immediate retention outreach with contract conversion incentive,22,16922.33,81.25681818181819,0.7889852273145471
+Critical,Standard Value,Contract conversion incentive,High-touch onboarding recovery and service review,13,4159.7300000000005,34.01538461538461,0.7831155657565143
+High,High Value,Discount / pricing support,Offer discount or bundle upgrade to reduce churn risk,525,367471.86,94.95780952380952,0.6148069685070953
+High,Medium Value,No immediate offer,Offer discount or bundle upgrade to reduce churn risk,246,123411.35,68.44939024390244,0.6082446663173967
+High,Medium Value,Discount / pricing support,Offer discount or bundle upgrade to reduce churn risk,192,115190.67,78.79973958333333,0.6343403278636369
+High,Standard Value,No immediate offer,Offer discount or bundle upgrade to reduce churn risk,144,39657.61,39.81701388888889,0.5772143129949749
+High,High Value,Discount / pricing support,Proactive outreach with pricing/value reinforcement,4,2514.99,102.1,0.5128616366339643
+Low,High Value,No immediate offer,Monitor only,1048,131789.96,99.20009541984733,0.10455384036852194
+Low,Medium Value,No immediate offer,Monitor only,1266,87632.99,65.99202211690363,0.0892656297611108
+Low,Standard Value,No immediate offer,Monitor only,1700,34499.49,24.840029411764707,0.06008838300106715
+Moderate,High Value,Customer education / support touchpoint,Monitor and enroll in nurture retention journey,594,253920.94,96.81254208754208,0.36914985854654214
+Moderate,Medium Value,Customer education / support touchpoint,Monitor and enroll in nurture retention journey,309,100420.8,72.28090614886732,0.37230848805616595
+Moderate,Medium Value,Customer education / support touchpoint,Send onboarding reinforcement and support check-in,205,59832.19,62.49878048780488,0.38615874616539464
+Moderate,Standard Value,Customer education / support touchpoint,Send onboarding reinforcement and support check-in,361,53056.13,32.130886426592795,0.37365842313372283
+Moderate,Standard Value,Customer education / support touchpoint,Monitor and enroll in nurture retention journey,76,12233.65,38.64407894736842,0.34466572168167325
+Moderate,High Value,Customer education / support touchpoint,Send onboarding reinforcement and support check-in,17,8643.55,93.0529411764706,0.45534051296432604

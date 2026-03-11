@@ -1,0 +1,4 @@
+model_name,true_negative,false_positive,false_negative,true_positive
+logistic_regression,932,103,183,191
+random_forest,933,102,184,190
+xgboost,931,104,176,198

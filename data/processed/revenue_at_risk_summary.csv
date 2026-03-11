@@ -1,0 +1,2 @@
+total_customers_scored,total_estimated_annual_revenue,total_predicted_revenue_at_risk,high_risk_customers,high_risk_revenue_at_risk,selected_model
+7043,5473399.2,1681259.53,1467,939229.83,random_forest

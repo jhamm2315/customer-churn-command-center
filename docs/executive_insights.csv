@@ -1,0 +1,6 @@
+insight
+"The strongest production candidate is random_forest with a ROC AUC of 0.8435, confirming it as the most effective churn classifier in the current pipeline."
+"The largest modeled revenue concentration sits in the High risk band, representing $648,246.48 in predicted revenue at risk."
+"The highest-priority individual customer is 7216-EWTRS, with a retention priority score of 1,101.32 and predicted revenue risk of $1,101.32."
+"The highest-impact retention strategy category is 'Customer education / support touchpoint', which covers $488,107.26 in modeled revenue exposure."
+"Leadership should focus retention resources on high-value, high-risk customers with short contract duration and elevated monthly charges, while operationalizing the random forest model as the primary churn scoring engine."
